@@ -89,8 +89,23 @@ WHERE location = 'Romania';
 * SQL Server
 * Tableau
 * Git and GitHub
+  
 
 ---
+
+## Tableau Dashboards
+
+This project includes interactive Tableau dashboards.
+
+### COVID-19 Vaccinations Dashboard
+
+View it here:  
+https://public.tableau.com/views/Covid_Raport/CovidVaccinations
+
+### COVID-19 Cases and Deaths Dashboard
+
+View it here:  
+https://public.tableau.com/views/Covid_Deaths_17729092228150/CovidInfectionsDeaths
 
 ## Author
 
