@@ -107,6 +107,15 @@ https://public.tableau.com/views/Covid_Raport/CovidVaccinations
 View it here:  
 https://public.tableau.com/views/Covid_Deaths_17729092228150/CovidInfectionsDeaths
 
+## Dashboard Preview
+
+### COVID-19 Vaccinations Dashboard
+![Vaccinations](vaccination.png)
+
+### COVID-19 Cases and Deaths Dashboard
+![Deaths](deaths.png)
+
+
 ## Author
 
 Araceli Bejar
