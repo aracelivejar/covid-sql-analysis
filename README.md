@@ -9,8 +9,11 @@ I followed a simple workflow to explore and analyze the data:
 
 Excel:
 I started by exploring and cleaning the dataset in Excel. This included checking the data structure, handling missing values, and preparing it for analysis.
+
 SQL:
 After cleaning, I imported the data into SQL Server and wrote queries to analyze key metrics such as infection rates, death percentages, and vaccination progress.
+
+
 Tableau:
 Finally, I used the SQL queries to create interactive dashboards in Tableau, making it easier to visualize trends and compare results across countries.
 
