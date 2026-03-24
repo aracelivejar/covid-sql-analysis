@@ -2,7 +2,7 @@
 
 This project analyzes global COVID-19 data to understand how the pandemic affected different countries in terms of infections, deaths, and vaccinations.
 
-The dataset used comes from Our World in Data:
+Dataset:
 https://ourworldindata.org/covid-deaths
 
 I followed a simple workflow to explore and analyze the data:
@@ -20,6 +20,10 @@ After cleaning, I imported the data into SQL Server and wrote queries to analyze
 
 Finally, I used the SQL queries to create interactive dashboards in Tableau, making it easier to visualize trends and compare results across countries.
 
+
+
+**Personal Project Goals:**
+
 The goal of this project was to practice SQL skills and transform raw data into clear, meaningful insights supported by visualizations.
 
 https://public.tableau.com/views/Covid_Deaths_17729092228150/CovidInfectionsDeaths
@@ -36,5 +40,6 @@ COVID-19 Cases and Deaths Dashboard
 Author
 
 Araceli Bejar
+
 GitHub: https://github.com/aracelivejar
 
