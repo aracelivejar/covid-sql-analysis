@@ -37,9 +37,3 @@ COVID-19 Cases and Deaths Dashboard
 ![Deaths](deaths.png)
 
 
-Author
-
-Araceli Bejar
-
-GitHub: https://github.com/aracelivejar
-
